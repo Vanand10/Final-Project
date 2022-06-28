@@ -2,5 +2,5 @@
 
 
 - Vandana
-- Jaime
+- Jaime Fraser
 
