@@ -3,7 +3,6 @@
 
 - Vandana
 - Jaime
-- Hector
 
 Assignment 1
 Assignment 2
