@@ -2,3 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/README-checkpoint.md
 Notebooks/.ipynb_checkpoints/DS109-L8-Bikes-checkpoint.ipynb
+Data/bikes.csv
