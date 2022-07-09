@@ -1,6 +1,6 @@
 # Final-Project
 
 
-- Vandana
+- Vandana Anand
 - Jaime Fraser
 

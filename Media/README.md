@@ -1,7 +1,6 @@
 # Final-Project
 
 
-- vandana
+- Vandana
 - Jaime
-- Hector
 
